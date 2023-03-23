@@ -19,7 +19,7 @@
  *
  * @package     local_greetings
  * @category    string
- * @copyright   2022 Your name <your@email>
+ * @copy-right   2022 Your name <your@email>
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -32,3 +32,4 @@ $string['greetinguserau'] = 'Hello, {$a}.';
 $string['greetinguseres'] = 'Hola, {$a}.';
 $string['greetinguserfj'] = 'Bula, {$a}.';
 $string['greetingusernz'] = 'Kia Ora, {$a}.';
+$string['yourmessage'] = 'Your message';
